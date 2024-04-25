@@ -14,6 +14,15 @@
   <a href="https://github.com/devicons/devicon">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Reac" width="100" height="100">
   </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="100" height="100">
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="100" height="100">
+  </a>
+  <a href="https://github.com/devicons/devicon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="100" height="100">
+  </a>
 </p>
 
 ## About Me
